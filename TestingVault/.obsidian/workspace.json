@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4edd44d3574d4ae4",
+        "id": "61a0150313300020",
         "type": "tabs",
         "children": [
           {
-            "id": "da3abcd790d2f9e6",
+            "id": "d0f99fcec95b0fc8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -135,11 +135,14 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "da3abcd790d2f9e6",
+  "active": "d0f99fcec95b0fc8",
   "lastOpenFiles": [
-    "alla is.md"
+    "alla is.md",
+    "Excalidraw/Drawing 2023-09-10 21.53.01.excalidraw.md",
+    "Excalidraw"
   ]
 }
